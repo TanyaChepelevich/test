@@ -1,4 +1,4 @@
 to create a branch: git branch <new_branch_name>;
 to switch to new brunch: git checkout <branch_name>;
 to check which branch you are in: git branch;
-to open a git GUI Here throw git bush: git gui&;
+to open a git GUI Here from git bush: git gui&;
